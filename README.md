@@ -1,0 +1,2 @@
+# gold-miner
+Incremental test
